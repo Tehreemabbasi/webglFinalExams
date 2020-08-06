@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "HummingBirds",
+"productVersion": "0.1",
+"dataUrl": "finalweb.data.unityweb",
+"wasmCodeUrl": "finalweb.wasm.code.unityweb",
+"wasmFrameworkUrl": "finalweb.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "finalweb.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.1f1"
+}
